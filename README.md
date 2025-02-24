@@ -65,7 +65,7 @@ plt.show()
 ## RegisterNumber: 212224040316
 
 ## Output:
-![best fit line](sam.png)
+![best fit line](graph.png)
 
 
 ## Result:
