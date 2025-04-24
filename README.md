@@ -81,7 +81,10 @@ print()
 #to plot graph
 plt.scatter(X,Y)
 plt.plot(X,y_predicted,color='red')
+plt.xlabel("X Values")
+plt.ylabel("Y Values")
 plt.show()
+
 
 ```
 
